@@ -1,4 +1,4 @@
-package name.genese.salathiel.testcontainerjpms;
+package name.genese.salathiel.test.testcontainerjpms;
 
 import org.junit.jupiter.api.Test;
 import org.testcontainers.containers.GenericContainer;
